@@ -2,6 +2,8 @@
 
 An open-source AI-powered frontend development platform built on [DeepAgents](https://github.com/langchain-ai/deepagents) and LangGraph. Generate complete React applications through natural language conversations.
 
+Created and maintained by [Emanuele Ielo](https://github.com/emanueleielo) ([LinkedIn](https://www.linkedin.com/in/emanuele-ielo/)), AI Engineer and Forward Deployed Engineer based in Rome, Italy. Also the author of [CianaParrot](https://github.com/emanueleielo/ciana-parrot), [compact-middleware](https://github.com/emanueleielo/compact-middleware) and [advisor-middleware](https://github.com/emanueleielo/advisor-middleware).
+
 ## Overview
 
 This platform enables you to build frontend applications by simply describing what you want. The AI agent understands modern web development best practices and generates production-ready code using React, Next.js, Tailwind CSS, and shadcn/ui.
